@@ -1,0 +1,8 @@
+Compile :
+    make minishell
+Clean:
+    make clean
+test:
+    ./minishell
+    ./minishell -c "my command"
+    ./ minishell | ....
