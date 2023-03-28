@@ -5,4 +5,5 @@ Clean:
 test:
     ./minishell
     ./minishell -c "my command"
-    ./ minishell | ....
+    ./minishell | ....
+    ./minishell commands.txt
